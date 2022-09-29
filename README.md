@@ -1,1 +1,2 @@
-# turma1-bl
+# turma1-b
+arquivos pensamento computacional
